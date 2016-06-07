@@ -10,7 +10,7 @@ namespace _01_ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Try to figure out with VS Extension and standalone GitHub app");
             Console.ReadKey();
 
         }
