@@ -1,5 +1,5 @@
 # Head First C#, 3rd Edition
-####A Learner's Guide to Real-World Programming with C#, XAML, and .NET 
+A Learner's Guide to Real-World Programming with C#, XAML, and .NET 
 
 ## Contents
 
