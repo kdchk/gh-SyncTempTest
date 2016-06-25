@@ -1,4 +1,4 @@
-# <img src="https://github.com/kdchk/booksRead-n-Code/blob/master/z_img_bookcovers/book_cover-Andrew-Troelsen.jpg" height="90"> Head First C#, 3rd Edition
+# <img src="https://github.com/kdchk/booksRead-n-Code/blob/master/z_img_bookcovers/book_cover-Head-First-CSharp.jpg" height="90"> Head First C#, 3rd Edition
 A Learner's Guide to Real-World Programming with C#, XAML, and .NET 
 
 ### Contents
