@@ -1,4 +1,4 @@
-# Head First C#, 3rd Edition
+# ![book cover](https://github.com/kdchk/booksRead-n-Code/blob/master/z_img_bookcovers/book_cover-Andrew-Troelsen.jpg| width=90) Head First C#, 3rd Edition
 A Learner's Guide to Real-World Programming with C#, XAML, and .NET 
 
 ### Contents
